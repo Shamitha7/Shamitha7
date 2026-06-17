@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tumula Shamitha 👋
 
-<!--
-**Shamitha7/Shamitha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Business Systems | BVRIT Hyderabad (CGPA: 8.05)  
+📊 Aspiring Business Analyst | Data Analysis | Power BI | SQL | Excel  
+🏆 Salesforce Certified Agentforce Specialist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Do
+I turn raw data into business decisions — through EDA, SQL analysis, 
+Power BI dashboards, and structured business reporting.
+
+## 📁 My Work
+- 📊 [BA Portfolio](https://github.com/Shamitha7/BA-Portfolio) — All my business analysis projects
+- 🛒 [Retail Sales Dashboard](https://github.com/Shamitha7/Retail-Sales-Analytics-Dashboard) — Power BI + SQL + Python EDA
+
+## 🛠 Skills
+`Excel` `Power BI` `SQL` `Python` `Salesforce CRM` `Data Validation` `KPI Reporting`
+
+## 📫 Contact
+📧 tumulashamitha@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/tumula-shamitha)
